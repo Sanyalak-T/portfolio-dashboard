@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 1.5rem;
+}
+
+header h1 {
+    text-transform: uppercase;
+}
+
+main h2 {
+    text-align: center;
+    text-transform: uppercase;
+    padding: 0.5rem 0;
+}
+
+.container {
+    margin: 0 13rem;
+}
+
+.container section {
+    margin: 1rem 0;
+}
+
+.container section h3 {
+    text-transform: uppercase;
+    padding: 0.5rem 0;
+}
+
+.container section p {
+    padding: 0.1rem 0;
+    padding: 0.5rem 0;
+}
+
+footer {
+    text-align: center;
+}
