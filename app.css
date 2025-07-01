@@ -57,9 +57,21 @@ body {
   color: #4b6cb7;
 }
 
+.project .function {
+  font-size: 0.9rem;
+  color: #555;
+  margin: 0.5rem 0;
+}
+
 .project .tools {
   font-size: 0.9rem;
   color: #777;
+  margin: 0.5rem 0;
+}
+
+.project span {
+  font-size: 0.7rem;
+  color: #999;
   margin: 0.5rem 0;
 }
 
